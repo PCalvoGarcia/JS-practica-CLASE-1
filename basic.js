@@ -101,31 +101,33 @@ console.log (divOfNumbers);
 
 const valueOne = 1;
 const valueTwo = 2;
-const comparison = valueOne == valueTwo;
+const comparisionOfNumbers = valueOne == valueTwo;
 
-console.log (comparision);
+console.log (comparisionOfNumbers);
 
 // Ejercicio 10: Crea otra variable que compare las dos primeras variables creadas en el ejercicio anterior, para que el resultado impreso en la consola sea true.
 
 //Escribe tu código aquí
 
+const comparisionTrue = valueOne < valueTwo
 
-
+console.log (comparisionTrue);
 
 //Ejercicio 11: completa el ejercicio
 
-let num1 = 15
-let num2 = 20
+let num1 = 15;
+let num2 = 20;
 
-let comparision = //Realiza la operación de comparación que consideres para que el resultado en consola sea true
-console.log(comparision)
+let comparision = num1 < num2;
+
+console.log(comparision);
 
 //Ejercicio 12: completa el ejercicio
 
 let num3 = 1
 let num3AsString = "1"
 
-let result = //Realiza la operación de comparación que consideres entre las dos variables dadas, para que el resultado en consola sea false sin usar el comparador de desigualdad
+let result = typeof num3 == typeof num3AsString
 console.log(result) 
 
 //Ejercicio 13: completa el ejercicio
