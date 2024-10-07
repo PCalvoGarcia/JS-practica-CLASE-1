@@ -57,16 +57,18 @@ console.log (object4)
 
 //Escribe tu código aquí
 
-
-
+console.log (object4.name);
+console.log (object4.age);
 
 //OPERADORES ARITMÉTICOS
 //Ejercicio 6: Crea una varible que sume 2 números e imprime el resultado en consola.
 
 //Escribe tu código aquí
 
-
-
+const numberOne = 5;
+const numberTwo = 7;
+const sumOfNumbers = numberOne + numberTwo;
+console.log (sumOfNumbers);
 
 //Ejercicio 7: Crea una varible que reste 2 números e imprime el resultado en consola.
 
