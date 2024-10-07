@@ -10,7 +10,7 @@ console.log('Hola soy tu consola y juntas vamos a aprender Javascript')
 
 //Escribe tu código aquí
 
-
+console.log ('Bienvenida al bootcamp de FemCoders de Factoría F5');
 
 
 //VARIABLES Y TIPOS DE DATOS
@@ -18,8 +18,19 @@ console.log('Hola soy tu consola y juntas vamos a aprender Javascript')
 
 //Escribe tu código aquí
 
-
-
+const string = 'Hola caracola';
+const number = 123;
+const boolean = true;
+const nullValue = null;
+const undefinedValue = undefined;
+const object = {name: 'Juan', age: 30};
+const array = ['string',123,true,null, undefined];
+console.log (string);
+console.log (number);
+console.log (boolean);
+console.log (nullValue);
+console.log (undefinedValue);
+console.log (object);
 
 //Ejercicio 3: Crea una constante llamada postres con un tipo de dato array que contiene los siguientes elementos: helado, tarta, pastel e imprímelo en la consola. 
 
