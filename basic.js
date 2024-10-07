@@ -90,16 +90,20 @@ console.log (multipliOfNumbers);
 
 //Escribe tu código aquí
 
+const divOfNumbers = numberTwo / numberOne;
 
-
+console.log (divOfNumbers);
 
 //OPERADORES DE COMPARACIÓN
 // Ejercicio 10: Crea dos variables, la primera con valor 1 y la segunda con valor 2, compara ambas variables dentro de otra variable e imprime en la consola para ver el resultado.
 
 //Escribe tu código aquí
 
+const valueOne = 1;
+const valueTwo = 2;
+const comparison = valueOne == valueTwo;
 
-
+console.log (comparision);
 
 // Ejercicio 10: Crea otra variable que compare las dos primeras variables creadas en el ejercicio anterior, para que el resultado impreso en la consola sea true.
 
