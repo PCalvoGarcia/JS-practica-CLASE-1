@@ -74,15 +74,17 @@ console.log (sumOfNumbers);
 
 //Escribe tu código aquí
 
+const restOfNumbers = numberOne - numberTwo;
 
-
+console.log (restOfNumbers);
 
 //Ejercicio 8: Crea una varible que multiplique 2 números e imprime el resultado en consola.
 
 //Escribe tu código aquí
 
+const multipliOfNumbers = numberOne * numberTwo;
 
-
+console.log (multipliOfNumbers);
 
 //Ejercicio 9: Crea una varible que divida 2 números e imprime el resultado en consola.
 
