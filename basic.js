@@ -23,8 +23,11 @@ const number = 123;
 const boolean = true;
 const nullValue = null;
 const undefinedValue = undefined;
-const object = {name: 'Juan', age: 30};
+const object = {
+    name: 'Juan', age: 30
+};
 const array = ['string',123,true,null, undefined];
+
 console.log (string);
 console.log (number);
 console.log (boolean);
@@ -36,15 +39,19 @@ console.log (object);
 
 //Escribe tu código aquí
 
+const desserts = ['helado', 'tarta', 'pastel'];
 
-
+console.log (desserts);
 
 //Ejercicio 4: Crea una constante con un tipo de dato objeto llamado coder que contengan dos propiedades, nombre y edad e imprímelo en la consola.
 
 //Escribe tu código aquí
 
+const object4 = {
+    name: 'Carlos', age: 28
+};
 
-
+console.log (object4)
 
 //Ejercicio 5: Busca como imprimir en consola el tipo de dato de cada variable que hemos creado.
 
